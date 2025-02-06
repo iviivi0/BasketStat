@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-  public partial class Form1 : Form
+  public partial class TestForm : Form
   {
-    public Form1()
+    public TestForm()
     {
       InitializeComponent();
     }
@@ -21,7 +21,7 @@ namespace WindowsFormsApplication1
     {
       int i;
       Int32.TryParse( this.textBox1.Text, out i );
-      i = BStat.Class1.first( i );
+      i = BStat.BStatLib.first( i );
       this.label1.Text = i.ToString();
 
     }

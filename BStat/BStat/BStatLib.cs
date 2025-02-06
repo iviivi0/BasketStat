@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BStat
 {
-    public class Class1
+    public class BStatLib
     {
     public static int first( int dig )
     { return dig * dig; }
