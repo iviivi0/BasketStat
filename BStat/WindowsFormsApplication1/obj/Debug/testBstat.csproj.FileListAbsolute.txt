@@ -1,0 +1,24 @@
+C:\Vika\BStat\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Vika\BStat\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Vika\BStat\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Vika\BStat\WindowsFormsApplication1\bin\Debug\BStat.dll
+C:\Vika\BStat\WindowsFormsApplication1\bin\Debug\BStat.pdb
+C:\Vika\BStat\WindowsFormsApplication1\obj\Debug\testBstat.csprojResolveAssemblyReference.cache
+C:\Vika\BStat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Vika\BStat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Vika\BStat\WindowsFormsApplication1\obj\Debug\testBstat.csproj.GenerateResource.Cache
+C:\Vika\BStat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Vika\BStat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\WindowsFormsApplication1\bin\Debug\BStat.dll
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\WindowsFormsApplication1\bin\Debug\BStat.pdb
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\WindowsFormsApplication1\obj\Debug\testBstat.csproj.AssemblyReference.cache
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\WindowsFormsApplication1\obj\Debug\testBstat.csproj.GenerateResource.cache
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\WindowsFormsApplication1\obj\Debug\testBstat.csproj.CoreCompileInputs.cache
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\WindowsFormsApplication1\obj\Debug\testBstat.csproj.Up2Date
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

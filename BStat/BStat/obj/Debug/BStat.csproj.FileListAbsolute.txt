@@ -1,0 +1,11 @@
+C:\Vika\BStat\BStat\bin\Debug\BStat.dll
+C:\Vika\BStat\BStat\bin\Debug\BStat.pdb
+C:\Vika\BStat\BStat\obj\Debug\BStat.csprojResolveAssemblyReference.cache
+C:\Vika\BStat\BStat\obj\Debug\BStat.dll
+C:\Vika\BStat\BStat\obj\Debug\BStat.pdb
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\BStat\bin\Debug\BStat.dll
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\BStat\bin\Debug\BStat.pdb
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\BStat\obj\Debug\BStat.csproj.AssemblyReference.cache
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\BStat\obj\Debug\BStat.csproj.CoreCompileInputs.cache
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\BStat\obj\Debug\BStat.dll
+C:\Users\vikai\OneDrive\Рабочий стол\Vika\BStat\BStat\obj\Debug\BStat.pdb
